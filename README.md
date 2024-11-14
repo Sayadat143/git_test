@@ -3,4 +3,5 @@ Adding more content to the README file.
 Feature update content
 Conflicting change in main branch
 Conflicting change in feature-update branch
+Hotfix changes
 Final adjustments for release
